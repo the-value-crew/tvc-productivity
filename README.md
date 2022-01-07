@@ -1,7 +1,7 @@
 # TVC Productivity
 Collection of productivity tools used at TheValueCrew.
 
-## Tools & Utilities
+## Tools & Utilities ⚒️
 
 - [Youtube speed control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik/)
 
@@ -16,9 +16,10 @@ Collection of productivity tools used at TheValueCrew.
 - [Compress Image](https://compressjpeg.com/) 
 - [PDF to DOCX](https://pdf2docx.com/) 
 - [Youtube to Mp3](https://ytmp3.cc/en13/) 
+- [Free Download Manager(has torrent support)](https://www.freedownloadmanager.org/)
 
 
-## For Design
+## Design 🖥️
 
 - [Font Pair](https://www.fontpair.co/)
 - [Material Colors](https://materialui.co/colors/) 
@@ -30,3 +31,8 @@ Collection of productivity tools used at TheValueCrew.
 - [Font Awesome](https://fontawesome.com/v5.15/icons) 
 - [BrandColors](https://brandcolors.net/) 
 - [GetWaves](https://getwaves.io/) 
+
+## Coding
+- [FiraCode](https://github.com/tonsky/FiraCode)
+- [RamroCode](https://ramrocode.netlify.app/#/)
+- [OhMyZSh](https://ohmyz.sh/)
