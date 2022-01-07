@@ -32,7 +32,7 @@ Collection of productivity tools used at TheValueCrew.
 - [BrandColors](https://brandcolors.net/) 
 - [GetWaves](https://getwaves.io/) 
 
-## Coding
+## Coding ⌨️
 - [FiraCode](https://github.com/tonsky/FiraCode)
 - [RamroCode](https://ramrocode.netlify.app/#/)
 - [OhMyZSh](https://ohmyz.sh/)
