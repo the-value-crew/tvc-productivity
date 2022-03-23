@@ -36,3 +36,8 @@ Collection of productivity tools used at TheValueCrew.
 - [FiraCode](https://github.com/tonsky/FiraCode)
 - [RamroCode](https://ramrocode.netlify.app/#/)
 - [OhMyZSh](https://ohmyz.sh/)
+
+
+### VScode Extensions
+- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+- [Hungry Delete](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete)
